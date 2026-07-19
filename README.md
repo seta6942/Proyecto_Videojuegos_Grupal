@@ -26,8 +26,8 @@ Asegúrate de tener instalado [Python 3.8 o superior](https://www.python.org/dow
 **Paso 2: Descargar el proyecto**
 Clona el repositorio o descarga el código fuente y entra al directorio del proyecto:
 
-    git clone <url-del-repositorio>
-    cd <nombre-de-la-carpeta>
+    git clone <[url-del-repositorio](https://github.com/seta6942/Proyecto_Videojuegos_Grupal)>
+    cd <Sombras>
 
 **Paso 3: Crear un entorno virtual (Recomendado)**
 Crea un entorno aislado para gestionar las dependencias del proyecto.
